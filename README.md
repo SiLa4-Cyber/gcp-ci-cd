@@ -1,6 +1,6 @@
 # DockerImage Build, Push and Deploy to GCP Cloud Run via GCP Cloud Build
 
-<br><img src="README.png"><br>
+<br><img src="Readme.jpg"><br>
 
 In order to deploy via Cloud Build located in project MANAGEMENT to CloudRun located in project STAGING,PROD you will need:
 
